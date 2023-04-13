@@ -21,3 +21,5 @@ This PowerShell script allows you to easily open Git Bash in a specified directo
 The script is currently configured to work on a Windows machine, but it can be modified to work on other operating systems as well. Simply change the value of the ``$directory`` and ``$git`` variables to point to the desired directory and Git Bash executable, respectively.
 
 To use the script, save it as a file with a .ps1 extension and run it from the PowerShell command line with ``.\<script_name>.ps1``.
+
+Have fun with this script and feel free to modify it as you see fit! 😂 which nobody will 😂, Use these scripts to quickly open Git Bash in your desired directory and start working on your projects with ease! (as if 🤣)
