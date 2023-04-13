@@ -4,7 +4,7 @@
 
 <h1 align="center">autoshell🐚</h1>
 
-> A quicker way to fire up my projects with gitbash 🚀
+A quicker way to fire up my projects with gitbash 🚀, This repository contains two shell scripts for quickly opening Git Bash in a specified directory on a Windows machine and could easily be configured to run on a Linux machine ``openGit.sh 🐚`` to be specific 😅
 
 ## openGit.sh 🐚
 
