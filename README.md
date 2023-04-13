@@ -23,3 +23,7 @@ The script is currently configured to work on a Windows machine, but it can be m
 To use the script, save it as a file with a .ps1 extension and run it from the PowerShell command line with ``.\<script_name>.ps1``.
 
 Have fun with this script and feel free to modify it as you see fit! 😂 which nobody will 😂, Use these scripts to quickly open Git Bash in your desired directory and start working on your projects with ease! (as if 🤣)
+
+## Demo
+
+<img src="assets/autoshell.gif">
