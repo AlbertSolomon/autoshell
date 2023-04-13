@@ -1,2 +1,3 @@
 # autoshell
-Quicker way to fire up my projects with gitbash 🚀
+
+> A quicker way to fire up my projects with gitbash 🚀
