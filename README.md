@@ -8,9 +8,11 @@
 
 ## openGit.sh 🐚
 
->This Bash script allows you to easily open Git Bash in a specified directory on a Windows machine. The script uses the ``cd`` command to change to the desired directory and then runs the ``start`` command to launch Git Bash with the ``git-bash.exe`` executable.
->The script is currently configured to work on a Windows machine, but it can be modified to work on other operating systems as well. Simply change the value of the ``DIR`` variable to point to the desired directory.
->To use the script, save it as a file with a ``.sh`` extension and run it from the command line with bash ``<script_name>.sh``.
+This Bash script allows you to easily open Git Bash in a specified directory on a Windows machine. The script uses the ``cd`` command to change to the desired directory and then runs the ``start`` command to launch Git Bash with the ``git-bash.exe`` executable.
+
+The script is currently configured to work on a Windows machine, but it can be modified to work on other operating systems as well. Simply change the value of the ``DIR`` variable to point to the desired directory.
+
+To use the script, save it as a file with a ``.sh`` extension and run it from the command line with bash ``<script_name>.sh``.
 
 ## openGit.ps1 🪟
 
