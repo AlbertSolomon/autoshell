@@ -1,5 +1,5 @@
 <div align="center">
-<img height="150" src="assets/overkill.png">
+<img height="125" src="assets/overkill.png">
 </div>
 
 <h1 align="center">autoshell🐚</h1>
