@@ -12,7 +12,7 @@ This Bash script allows you to easily open Git Bash in a specified directory on 
 
 The script is currently configured to work on a Windows machine, but it can be modified to work on other operating systems as well. Simply change the value of the ``DIR`` variable to point to the desired directory.
 
-To use the script, save it as a file with a ``.sh`` extension and run it from the command line with bash ``<script_name>.sh``.
+To use the script, save it as a file with a ``.sh`` extension and run it from the command line with bash ``<script_name>.sh``. 😎 **One way to make things cooler is to set up the script to always open with gitbash, create a shortcut for it, and customize the icon to your liking, just as shown in the demonstration below.**
 
 ## openGit.ps1 🪟
 
